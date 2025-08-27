@@ -8,12 +8,12 @@
             #region Task_2 Write a program that allows the user to insert an integer then print negative if it is negative number otherwise print positive.
 
                 Console.Write("Enter your num: ");
-                int number = int.Parse(Console.ReadLine());
-                if (number > 0)
+                int number2 = int.Parse(Console.ReadLine());
+                if (number2 > 0)
                 {
                     Console.WriteLine("Positive");
                 }
-                else if (number < 0)
+                else if (number2 < 0)
                 {
                     Console.WriteLine("Negative");
                 }
