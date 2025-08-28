@@ -17,7 +17,7 @@ namespace ConsoleApp1
             {
                 if (value < 0)
                 {
-                    Console.WriteLine("Balance cannot be negative.");
+                    Console.WriteLine("Balance must be positive.");
                 }
                 balance = value;
             }
