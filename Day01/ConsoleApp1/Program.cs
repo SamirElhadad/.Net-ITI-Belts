@@ -8,7 +8,7 @@ namespace ConsoleApp1
         {
             //Task_1
 
-            Console.WriteLine("Enter Your Age : ");
+            Console.Write("Enter Your Age : ");
             int age = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine($"Your Age is : {age}");
 
@@ -34,10 +34,10 @@ namespace ConsoleApp1
 
             //Task_5
 
-            int[] numbers = { 1, 2, 3, 4, 5 };
-            int[] numbers1 = numbers;
-            numbers1[0] = 10; // modifying the first element of numbers1
-            Console.WriteLine($"The first element is: {numbers[0]}"); // The first element is: 10
+            int[] numbers3 = { 1, 2, 3, 4, 5 };
+            int[] numbers4 = numbers3;
+            numbers4[0] = 10; // modifying the first element of numbers1
+            Console.WriteLine($"The first element is: {numbers3[0]}"); // The first element is: 10
 
 
             //Task_6

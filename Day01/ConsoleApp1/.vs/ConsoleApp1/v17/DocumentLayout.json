@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Back_End11\\.Net-ITI-Belts\\Day01\\ConsoleApp1\\",
+  "WorkspaceRootPath": "D:\\Back_End\\.Net-ITI-Belts\\Day01\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9B4AFD53-2AF9-4EC7-A4F4-491543822CE2}|ConsoleApp1.csproj|d:\\back_end11\\.net-iti-belts\\day01\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9B4AFD53-2AF9-4EC7-A4F4-491543822CE2}|ConsoleApp1.csproj|d:\\back_end\\.net-iti-belts\\day01\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B4AFD53-2AF9-4EC7-A4F4-491543822CE2}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Back_End11\\.Net-ITI-Belts\\Day01\\ConsoleApp1\\Program.cs",
+              "DocumentMoniker": "D:\\Back_End\\.Net-ITI-Belts\\Day01\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Back_End11\\.Net-ITI-Belts\\Day01\\ConsoleApp1\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAkwDcAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\Back_End\\.Net-ITI-Belts\\Day01\\ConsoleApp1\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA+wBIAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-24T07:46:40.536Z",
               "EditorCaption": ""
