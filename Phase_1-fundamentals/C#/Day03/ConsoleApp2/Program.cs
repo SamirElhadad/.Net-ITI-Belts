@@ -64,7 +64,6 @@ namespace ConsoleApp2
                         Console.WriteLine($"Withdrew: ${amount}, New Balance: ${account.Balance}");
                         break;
                 }
-
             #endregion
         }
     }
