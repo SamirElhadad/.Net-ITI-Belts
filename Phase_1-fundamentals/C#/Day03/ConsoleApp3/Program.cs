@@ -16,7 +16,7 @@ namespace ConsoleApp3
 
                 Console.Write("Enter Your Full Name: ");
                 string name = Console.ReadLine();
-                student.FullName = name;
+                student.fullName = name;
 
                 Console.Write("Enter Your Grade: ");
                 double grade = Convert.ToDouble(Console.ReadLine());

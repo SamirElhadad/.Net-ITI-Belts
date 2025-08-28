@@ -9,12 +9,12 @@ namespace ConsoleApp1
     public class Student
     {
         public int Id { get; set; }
-        public string FullName { get; set; }
+        public string fullName { get; set; }
         public double Grade  { get; set; }
 
         public void DisplayInfo()
         {
-            Console.WriteLine($"ID: {Id}, Name: {FullName}, Grade: {Grade}");
+            Console.WriteLine($"ID: {Id}, Name: {fullName}, Grade: {Grade}");
         }
     }
 }
