@@ -25,7 +25,6 @@
                 Console.WriteLine($"Mix = {minNum}");
 
             #endregion
-
         }
     }
 }
