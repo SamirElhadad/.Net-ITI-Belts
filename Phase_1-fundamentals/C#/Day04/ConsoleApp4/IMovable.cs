@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp4
 {
+    
     public interface IMovable
     {
         void Move();
     }
+
 }
