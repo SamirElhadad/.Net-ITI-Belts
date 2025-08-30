@@ -18,6 +18,4 @@ namespace ConsoleApp3
             Console.WriteLine($"{Name} is managing the {ManageTeam} team with salary {Salary}.");
         }
     }
-    
-    
 }
