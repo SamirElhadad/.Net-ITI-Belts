@@ -17,7 +17,6 @@ namespace ConsoleApp3
         {
             Console.WriteLine($"{Name} is working and earns {Salary}.");
         }
-
     }
 
 }
