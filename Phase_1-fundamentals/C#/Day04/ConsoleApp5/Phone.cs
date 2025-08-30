@@ -16,4 +16,5 @@ namespace ConsoleApp5
             Console.WriteLine($"Phone {SerialNumber} is booting up...");
         }
     }
+    
 }
