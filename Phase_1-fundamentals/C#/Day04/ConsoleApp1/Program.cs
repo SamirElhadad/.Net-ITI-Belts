@@ -13,7 +13,7 @@
             car1.DisplayInfo();
             car2.DisplayInfo();
 
-            Console.WriteLine($"Total Car is : {Car.TotalCars}");
+            Console.WriteLine($"Total Car is : {Car._TotalCars}");
 
         }
     }
