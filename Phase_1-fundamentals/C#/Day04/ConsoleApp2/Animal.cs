@@ -19,6 +19,5 @@ namespace ConsoleApp2
         {
             Console.WriteLine($"{Name} is eating.");
         }
-
     }
 }
