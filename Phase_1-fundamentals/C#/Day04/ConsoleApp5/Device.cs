@@ -8,6 +8,7 @@ namespace ConsoleApp5
 {
     public class Device
     {
+        
         public readonly string SerialNumber;
 
         public Device(string serialNumber)
