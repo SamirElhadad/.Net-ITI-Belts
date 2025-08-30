@@ -7,7 +7,9 @@ using System.Threading.Tasks;
 namespace ConsoleApp5
 {
     public interface ICall
+    
     {
         void MakeCall();
     }
+
 }
