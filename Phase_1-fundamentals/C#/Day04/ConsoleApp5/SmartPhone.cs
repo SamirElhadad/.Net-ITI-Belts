@@ -26,5 +26,4 @@ namespace ConsoleApp5
             Console.WriteLine($"SmartPhone {SerialNumber} is turning on...");
         }
     }
-   
 }
