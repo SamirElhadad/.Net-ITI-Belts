@@ -8,7 +8,6 @@
             manager.Introduce();
             manager.Work();
             manager.Manage();
-
         }
     }
 }
