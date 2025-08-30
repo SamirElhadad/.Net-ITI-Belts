@@ -14,5 +14,6 @@ namespace ConsoleApp5
         {
             Console.WriteLine($"Tablet {SerialNumber} is turning on...");
         }
+        
     } 
 }
