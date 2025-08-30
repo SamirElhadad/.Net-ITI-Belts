@@ -21,7 +21,6 @@
                 Console.WriteLine($"Total Mark is :{totalMark} \n Average Mark is :{averageMark} \n Percentage is :{Percentage}%");
 
             #endregion
-
         }
     }
 }
