@@ -20,6 +20,7 @@
             // Tablet
             Tablet t = new Tablet("T789");
             t.TurnOn();
+            
         }
     }
 }
