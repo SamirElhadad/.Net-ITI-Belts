@@ -24,7 +24,6 @@
                 }
                 Console.WriteLine($"The sum of even numbers in the array is: {sumEven}");
 
-
             #endregion
         }
     }
