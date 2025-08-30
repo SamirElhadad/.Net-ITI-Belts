@@ -6,6 +6,7 @@
         {
             #region Task_9 Write a program that takes two integers then prints the power.
 
+
                 Console.Write("Enter The Number : ");
                 int number8 = int.Parse(Console.ReadLine());
                 Console.Write("Entet The Power : ");
@@ -17,6 +18,7 @@
                     result *= number8;
                 }
                 Console.WriteLine($"The Result Of {number8} ^ {power} is = {result}");
+
 
             #endregion
         }
