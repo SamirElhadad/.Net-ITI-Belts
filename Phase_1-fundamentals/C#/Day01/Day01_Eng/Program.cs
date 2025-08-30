@@ -28,7 +28,6 @@
 
             #endregion
 
-
             #region DataTypes in memory
 
             //int a = 10; // 4 bytes in memory
