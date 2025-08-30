@@ -6,6 +6,7 @@
         {
             #region Task_11 Write a program to create a Simple Calculator using switch.
 
+
                 Console.Write("Enter First Number : ");
                 int num1 = int.Parse(Console.ReadLine());
                 Console.Write("Enter Second Number : ");
@@ -38,6 +39,7 @@
                         Console.WriteLine("Error: Invalid operator.");
                         break;
                 }
+
 
             #endregion
         }
