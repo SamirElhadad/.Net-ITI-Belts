@@ -19,6 +19,7 @@
                     }
                 }
                 Console.WriteLine("Consonant");
+                
             #endregion
         }
     }
