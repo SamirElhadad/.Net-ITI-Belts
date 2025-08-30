@@ -17,5 +17,4 @@ namespace ConsoleApp4
             Console.WriteLine("Resizing the rectangle");
         }
     }
-    
 }
