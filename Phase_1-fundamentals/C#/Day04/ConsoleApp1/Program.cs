@@ -14,7 +14,6 @@
             car2.DisplayInfo();
 
             Console.WriteLine($"Total Car is : {Car.TotalCars}");
-
         }
     }
 }
