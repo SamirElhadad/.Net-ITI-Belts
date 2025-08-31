@@ -8,6 +8,7 @@ namespace ConsoleApp2
 {
     public class Employee
     {
+
         public string Name { get; set; }
         public int Salary { get; set; }
 
@@ -15,5 +16,6 @@ namespace ConsoleApp2
         {
             return Salary * 0.05m;
         }
+
     }
 }
