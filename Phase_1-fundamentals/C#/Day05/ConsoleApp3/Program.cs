@@ -6,7 +6,6 @@
         {
             Calculator calc = new Calculator();
 
-         
             int sum1 = calc.Add(1, 2);            
             double sum2 = calc.Add(1.5, 2.5);      
             int sum3 = calc.Add(1, 2, 3);          
