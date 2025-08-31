@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+
             Employee manager = new Manager()
             {
                 Name = "Samir Elhadad",
@@ -24,6 +25,7 @@
                 Salary = 100
             };
             Console.WriteLine($"Employee: {employee.Name} , Salary: {employee.Salary} , Bonus: {employee.CalculateBonus()}");
+
         }
     }
 }
