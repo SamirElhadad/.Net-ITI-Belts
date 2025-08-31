@@ -8,6 +8,7 @@ namespace ConsoleApp4
 {
     public class Student
     {
+
         public string Name;
         public int Age;
 
@@ -25,5 +26,6 @@ namespace ConsoleApp4
         {
             Console.WriteLine($"Name: {Name} , Age: {Age}");
         }
+
     }
 }
