@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+
             BaseClass baseClass = new BaseClass();
             baseClass.ShowMessage();
 
