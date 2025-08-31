@@ -22,6 +22,6 @@ namespace ConsoleApp3
         {
             return a + b + c;
         }
-      
+
     }
 }
