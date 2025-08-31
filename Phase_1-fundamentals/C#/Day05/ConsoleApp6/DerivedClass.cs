@@ -13,5 +13,6 @@ namespace ConsoleApp6
         //{
         //    Console.WriteLine("Message from DerivedClass");
         //}
+
     }
 }
