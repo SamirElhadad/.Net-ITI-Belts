@@ -16,5 +16,4 @@ namespace ConsoleApp1
             Console.WriteLine($"Processing payment of {Amount} {Currency}");
         }
     }
-
 }
