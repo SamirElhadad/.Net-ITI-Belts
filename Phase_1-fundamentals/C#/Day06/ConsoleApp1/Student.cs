@@ -44,5 +44,6 @@ namespace ConsoleApp1
         {
             Console.WriteLine($"\n{FullName} , registered for {courseName} ({credits} credits).");
         }
+
     }
 }
