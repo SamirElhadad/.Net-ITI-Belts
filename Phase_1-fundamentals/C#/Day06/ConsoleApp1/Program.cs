@@ -43,6 +43,7 @@
 
             personRef = p1;  
             personRef.DisplayInfo();
+
         }
     }
 }
