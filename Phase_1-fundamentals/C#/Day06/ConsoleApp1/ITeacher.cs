@@ -8,6 +8,7 @@ namespace ConsoleApp1
 {
     public interface ITeacher
     {
+
         void TeachCourse(string courseName);
 
     }
