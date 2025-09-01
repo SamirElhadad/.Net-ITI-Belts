@@ -21,5 +21,6 @@ namespace ConsoleApp1
         {
             Console.WriteLine($"\n{FullName} , is teaching {courseName} in the {department} department.");
         }
+
     }
 }
