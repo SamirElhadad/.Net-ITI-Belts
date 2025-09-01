@@ -28,6 +28,7 @@ namespace ConsoleApp1
             }
         }
 
+
         // Auto-implemented property for FullName
         public string FullName { get; set; }
 
