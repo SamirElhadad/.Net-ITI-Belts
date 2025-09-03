@@ -12,7 +12,6 @@ namespace ConsoleApp1
         public int? Age { get; set; }
         public List<int> Scores { get; set; }
 
-
         public Student(string name, int? age = null)
         {
             Name = name;
