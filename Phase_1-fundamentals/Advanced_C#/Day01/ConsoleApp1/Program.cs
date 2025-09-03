@@ -12,7 +12,6 @@
                 new Student("Ahmed")
             };
 
-
             student[0].AddScore(90, 80, 70);
             student[1].AddScore(90, 90, 90);
             student[2].AddScore(50, 60, 70);
