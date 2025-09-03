@@ -18,16 +18,15 @@ namespace ConsoleApp1
             Name = name;
             Age = age;
             Scores = new List<int>();
-
         }
 
         public void AddScore(params int[] scores)
         {
             Scores.AddRange(scores);
         }
+
         public double? GetAverageScore()
         {
-
             return Scores.Count == 0 ? null : Scores.Average();
         }
     }
