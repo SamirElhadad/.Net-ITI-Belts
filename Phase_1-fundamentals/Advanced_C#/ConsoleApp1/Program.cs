@@ -17,7 +17,6 @@
             student[1].AddScore(90, 90, 90);
             student[2].AddScore(50, 60, 70);
             student[3].AddScore(80, 80, 90);
-            
 
             string scoreToAdd = "80";
             if (int.TryParse(scoreToAdd, out int parsedScore))
