@@ -13,7 +13,6 @@ namespace ConsoleApp2
         public void ShowInfo()
         {
             dynamic obj = Item;
-
             Console.WriteLine($"Name: {obj.Name}, Price: {obj.Price}");
         }
     }
