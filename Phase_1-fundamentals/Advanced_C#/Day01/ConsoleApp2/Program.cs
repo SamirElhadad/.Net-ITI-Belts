@@ -30,7 +30,6 @@
             Console.WriteLine("\n===> After Price Update <===");
             box1.ShowInfo();
 
-           
             List<Product> products = new List<Product> { box1.Item , box2.Item, box3.Item };
 
             var expensiveProducts = products.Where(p => p.Price > 7000);
@@ -40,7 +39,6 @@
             {
                 Console.WriteLine($"{p.Name} ==> {p.Price}");
             }
-
         }
     }
 }
