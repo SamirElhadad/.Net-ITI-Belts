@@ -37,7 +37,6 @@
             Console.WriteLine($"Sum of integers: {sumNumbers}");
             Console.WriteLine($"Sum of parsed strings: {SumParsed}");
             Console.WriteLine($"Grand Total: {sumNumbers + SumParsed}");
-
         }
     }
 }
