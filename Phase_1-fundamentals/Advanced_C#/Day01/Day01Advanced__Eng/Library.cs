@@ -26,6 +26,7 @@ namespace Day01Advanced
         }
 
 
+
         public void ShowAll()
         {
             for (int i = 0; i < index; i++)
