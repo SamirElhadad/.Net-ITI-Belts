@@ -11,6 +11,5 @@ namespace ConsoleApp1
         public Admin(string name, double salary) : base(name, salary)
         {
         }
-        
     }
 }
