@@ -17,11 +17,11 @@
         {
 
             Employee[] employees = new Employee[]
-              {
+            {
                 new Manager("Samir", 90000 ),
                 new Admin("Ehab", 60000 ),
                 new Staff("Zeyad", 4000 )
-          };
+            };
 
             foreach (var emp in employees)
             {
