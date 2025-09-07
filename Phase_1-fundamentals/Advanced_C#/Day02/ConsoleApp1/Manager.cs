@@ -6,10 +6,12 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
+
     public class Manager : Employee
     {
         public Manager(string name, double salary) : base(name, salary)
         {
         }
     }
+
 }
