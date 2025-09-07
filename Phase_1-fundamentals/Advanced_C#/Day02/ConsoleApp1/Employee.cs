@@ -17,7 +17,6 @@ namespace ConsoleApp1
             Salary = salary;
         }
     }
-
 }
 
 
