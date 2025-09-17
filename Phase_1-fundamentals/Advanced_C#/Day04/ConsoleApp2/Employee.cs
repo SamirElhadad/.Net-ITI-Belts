@@ -25,7 +25,6 @@ namespace ConsoleApp2
             }
             return res;
         }
-
         
     }
 }
