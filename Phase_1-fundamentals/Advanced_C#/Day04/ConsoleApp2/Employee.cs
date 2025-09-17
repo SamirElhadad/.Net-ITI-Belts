@@ -24,8 +24,6 @@ namespace ConsoleApp2
               res = this.HiringDate.Day.CompareTo(other.HiringDate.Day);
             }
             return res;
-
-
         }
 
         
