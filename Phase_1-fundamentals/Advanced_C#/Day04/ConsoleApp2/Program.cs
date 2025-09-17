@@ -15,7 +15,6 @@
             {
                 Console.WriteLine($"{emp.Name}, {emp.Salary}, {emp.HiringDate.ToShortDateString()}");
             }
-
         }
     }
 }
