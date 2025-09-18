@@ -23,6 +23,5 @@ namespace ConsoleApp3
         {
             writer.Close();
         }
-
     }
 }
